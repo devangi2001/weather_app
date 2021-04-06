@@ -1,0 +1,4 @@
+#Tue Apr 06 04:47:27 IST 2021
+base.0=C\:\\Users\\devangi\\Downloads\\SUTT-Task2-main\\SUTT-Task2-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
